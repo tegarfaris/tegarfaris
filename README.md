@@ -8,14 +8,17 @@ Lifelong Learner, currently working as Frontend Developer.
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
+### <summary><strong>About me!</strong></summary>
 <p>
-    - :keyboard: I’m currently as Frontend Developer </br>
+    - :keyboard: I’m currently working at Startup Tech Company and Freelance as web developer </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:tegarfarisn@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/his </br>
     - :game_die: Coding, Listening Spotify, and watch Netflix </br>
+    - 📰: https://portfolio-v2-eta-sooty.vercel.app/
 <p>
+
+
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.linkedin.com/in/tegarfarisn/">
