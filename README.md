@@ -10,7 +10,7 @@ Lifelong Learner, currently working as Frontend Developer.
 
 ### <summary><strong>About me!</strong></summary>
 <p>
-    - :keyboard: I’m currently working at Startup Tech Company and Freelance as web developer </br>
+    - :keyboard: I’m currently working as Frontend Developer at software house company </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:tegarfarisn@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/his </br>
