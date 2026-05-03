@@ -15,7 +15,7 @@ Lifelong Learner, currently working as Frontend Developer.
     - :mailbox: How to reach me: <a href="mailto:tegarfarisn@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/his </br>
     - :game_die: Coding, Listening Spotify, and watch Netflix </br>
-    - 📰: https://portfolio-v2-eta-sooty.vercel.app/
+    - 📰: https://tegarfarisn.vercel.app/
 <p>
 
 
